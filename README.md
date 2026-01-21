@@ -1,7 +1,7 @@
 # GitHub Unstar CLI
 
-[![npm version](https://img.shields.io/npm/v/gh-unstar?style=flat-square&color=blue)](https://www.npmjs.com/package/gh-unstar)
-[![license](https://img.shields.io/npm/l/gh-unstar?style=flat-square&color=green)](https://www.npmjs.com/package/gh-unstar)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/chris-c-thomas/gh-unstar?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/chris-c-thomas/gh-unstar?style=for-the-badge)
 
 CLI to remove all starred repositories from a GitHub account
 
