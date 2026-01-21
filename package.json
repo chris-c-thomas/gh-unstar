@@ -25,11 +25,25 @@
   "keywords": [
     "github",
     "stars",
+    "repositories",
+    "api",
     "cli",
     "unstar",
     "automation"
   ],
   "license": "MIT",
+  "author": {
+    "name": "Chris Thomas",
+    "url": "https://github.com/chris-c-thomas"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chris-c-thomas/gh-unstar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chris-c-thomas/gh-unstar/issues"
+  },
+  "homepage": "https://github.com/chris-c-thomas/gh-unstar",
   "dependencies": {
     "chalk": "^5.6.2",
     "commander": "^12.1.0",
