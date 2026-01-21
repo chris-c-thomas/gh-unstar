@@ -1,6 +1,4 @@
-# gh-unstar
-
-# gh-unstar
+# GitHub Unstar CLI
 
 [![npm version](https://img.shields.io/npm/v/gh-unstar?style=flat-square&color=blue)](https://www.npmjs.com/package/gh-unstar)
 [![license](https://img.shields.io/npm/l/gh-unstar?style=flat-square&color=green)](https://www.npmjs.com/package/gh-unstar)
