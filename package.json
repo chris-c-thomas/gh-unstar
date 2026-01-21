@@ -1,0 +1,43 @@
+{
+  "name": "gh-unstar",
+  "version": "1.0.0",
+  "description": "Interactive CLI to remove all GitHub stars from your account",
+  "bin": {
+    "gh-unstar": "bin/gh-unstar.js"
+  },
+  "type": "commonjs",
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE",
+    ".env.example"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node bin/gh-unstar.js",
+    "lint": "biome lint .",
+    "format": "biome format --write .",
+    "check": "biome check --write ."
+  },
+  "keywords": [
+    "github",
+    "stars",
+    "cli",
+    "unstar",
+    "automation"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^12.1.0",
+    "dotenv": "^17.2.3",
+    "inquirer": "^9.2.23",
+    "ora": "^8.0.1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.3.11"
+  }
+}
